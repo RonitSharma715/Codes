@@ -13,13 +13,16 @@
 ## Array
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/RonitSharma715/Codes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RonitSharma715/Codes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/RonitSharma715/Codes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RonitSharma715/Codes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/RonitSharma715/Codes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RonitSharma715/Codes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
