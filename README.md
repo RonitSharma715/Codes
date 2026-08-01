@@ -16,12 +16,14 @@
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/RonitSharma715/Codes/tree/master/0486-predict-the-winner) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RonitSharma715/Codes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RonitSharma715/Codes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RonitSharma715/Codes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/RonitSharma715/Codes/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RonitSharma715/Codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RonitSharma715/Codes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RonitSharma715/Codes/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -55,4 +57,16 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RonitSharma715/Codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RonitSharma715/Codes/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RonitSharma715/Codes/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RonitSharma715/Codes/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
