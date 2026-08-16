@@ -69,4 +69,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RonitSharma715/Codes/tree/master/0486-predict-the-winner) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/RonitSharma715/Codes/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
