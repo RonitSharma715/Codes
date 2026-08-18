@@ -18,6 +18,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/RonitSharma715/Codes/tree/master/0486-predict-the-winner) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RonitSharma715/Codes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/RonitSharma715/Codes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RonitSharma715/Codes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RonitSharma715/Codes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
@@ -48,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/RonitSharma715/Codes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RonitSharma715/Codes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
