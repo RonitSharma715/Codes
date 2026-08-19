@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RonitSharma715/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/RonitSharma715/Codes/tree/master/0486-predict-the-winner) |
 | [1386-cinema-seat-allocation](https://github.com/RonitSharma715/Codes/tree/master/1386-cinema-seat-allocation) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RonitSharma715/Codes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -66,6 +67,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RonitSharma715/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/RonitSharma715/Codes/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
