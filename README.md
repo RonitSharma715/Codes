@@ -9,11 +9,13 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/RonitSharma715/Codes/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RonitSharma715/Codes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RonitSharma715/Codes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RonitSharma715/Codes/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RonitSharma715/Codes/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RonitSharma715/Codes/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RonitSharma715/Codes/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -50,12 +52,14 @@
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RonitSharma715/Codes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RonitSharma715/Codes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RonitSharma715/Codes/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/RonitSharma715/Codes/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RonitSharma715/Codes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RonitSharma715/Codes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RonitSharma715/Codes/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
@@ -65,6 +69,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/RonitSharma715/Codes/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RonitSharma715/Codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RonitSharma715/Codes/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
