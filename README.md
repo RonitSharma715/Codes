@@ -33,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RonitSharma715/Codes/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/RonitSharma715/Codes/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RonitSharma715/Codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RonitSharma715/Codes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -80,6 +81,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RonitSharma715/Codes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RonitSharma715/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/RonitSharma715/Codes/tree/master/0486-predict-the-winner) |
 ## Recursion
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RonitSharma715/Codes/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RonitSharma715/Codes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
