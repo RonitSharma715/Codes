@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/RonitSharma715/Codes/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/RonitSharma715/Codes/tree/master/0940-distinct-subsequences-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RonitSharma715/Codes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RonitSharma715/Codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RonitSharma715/Codes/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -92,6 +93,7 @@
 | [0115-distinct-subsequences](https://github.com/RonitSharma715/Codes/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RonitSharma715/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/RonitSharma715/Codes/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/RonitSharma715/Codes/tree/master/0940-distinct-subsequences-ii) |
 ## Recursion
 |  |
 | ------- |
