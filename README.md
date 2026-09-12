@@ -29,6 +29,7 @@
 | [1386-cinema-seat-allocation](https://github.com/RonitSharma715/Codes/tree/master/1386-cinema-seat-allocation) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RonitSharma715/Codes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RonitSharma715/Codes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RonitSharma715/Codes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RonitSharma715/Codes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RonitSharma715/Codes/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RonitSharma715/Codes/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RonitSharma715/Codes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RonitSharma715/Codes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RonitSharma715/Codes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/RonitSharma715/Codes/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
@@ -99,6 +101,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RonitSharma715/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/RonitSharma715/Codes/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/RonitSharma715/Codes/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RonitSharma715/Codes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
@@ -141,4 +144,8 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/RonitSharma715/Codes/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RonitSharma715/Codes/tree/master/3904-smallest-stable-index-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RonitSharma715/Codes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
