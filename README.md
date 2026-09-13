@@ -26,6 +26,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RonitSharma715/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/RonitSharma715/Codes/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/RonitSharma715/Codes/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/RonitSharma715/Codes/tree/master/1386-cinema-seat-allocation) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RonitSharma715/Codes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RonitSharma715/Codes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -134,6 +135,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/RonitSharma715/Codes/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RonitSharma715/Codes/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Memoization
 |  |
