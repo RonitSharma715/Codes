@@ -29,6 +29,7 @@
 | [0486-predict-the-winner](https://github.com/RonitSharma715/Codes/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/RonitSharma715/Codes/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/RonitSharma715/Codes/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RonitSharma715/Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RonitSharma715/Codes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RonitSharma715/Codes/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RonitSharma715/Codes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/RonitSharma715/Codes/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RonitSharma715/Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RonitSharma715/Codes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RonitSharma715/Codes/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RonitSharma715/Codes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -107,6 +109,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RonitSharma715/Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/RonitSharma715/Codes/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/RonitSharma715/Codes/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RonitSharma715/Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RonitSharma715/Codes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RonitSharma715/Codes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RonitSharma715/Codes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -126,6 +129,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RonitSharma715/Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RonitSharma715/Codes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Two Pointers
 |  |
@@ -158,6 +162,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RonitSharma715/Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RonitSharma715/Codes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
 |  |
