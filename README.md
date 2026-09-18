@@ -6,6 +6,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/RonitSharma715/Codes/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/RonitSharma715/Codes/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RonitSharma715/Codes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RonitSharma715/Codes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RonitSharma715/Codes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RonitSharma715/Codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RonitSharma715/Codes/tree/master/0088-merge-sorted-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RonitSharma715/Codes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RonitSharma715/Codes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RonitSharma715/Codes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RonitSharma715/Codes/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -86,6 +88,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/RonitSharma715/Codes/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RonitSharma715/Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RonitSharma715/Codes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RonitSharma715/Codes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RonitSharma715/Codes/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RonitSharma715/Codes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -100,6 +103,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/RonitSharma715/Codes/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RonitSharma715/Codes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RonitSharma715/Codes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RonitSharma715/Codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RonitSharma715/Codes/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
